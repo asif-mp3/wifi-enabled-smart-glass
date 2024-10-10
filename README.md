@@ -1,4 +1,4 @@
-# 💓 Wearable Health Monitoring System
+# 🤖 Wearable Smart Glass for Health Monitoring
 
 A simple yet effective wearable health monitoring system that tracks real-time **heart rate** and **step count** using a **Pulse Sensor** and **accelerometer**. Data is displayed on an **OLED screen** and processed by the **NodeMCU V3** for portable health tracking.
 
